@@ -83,7 +83,6 @@ Well designed sampling incorporates several of the following types of sampling.
 - **Survivorship Bias**
 	- Survivorship bias or survival bias is the logical error of concentrating on entities that passed a selection process while overlooking those that did not. 
 		- Example: Cannot test on fatal shots to planes
-		 ![[Pasted image 20230201213509.png|200]]
 - Once a rigorous expirement is designed and conducted correctly, an experimenter must accept the results even if they go against their expectations. 
 
 
