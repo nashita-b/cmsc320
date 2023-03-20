@@ -50,7 +50,7 @@ Well designed sampling incorporates several of the following types of sampling.
 - In cluster sampling, researchers randomly divide a population into smaller groups known as clusters. They then randomly select among these clusters to form a sample. 
 - Cluster sampling is a method of probability sampling that is often used to study large populations, particularly those that are widely geographically dispersed.
 
-![[Pasted image 20230320171518.png|400]]
+<img src="https://user-images.githubusercontent.com/53871641/226473598-147f13bd-136f-4b96-b124-d9216418e7b5.png" width = "300" height = "300">
 
 #### Cluster vs Stratification
 - In clustering subjects are grouped randomly, while in stratification they are grouped based on shared characteristics. 
