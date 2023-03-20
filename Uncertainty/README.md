@@ -1,10 +1,10 @@
 # Uncertainty and Expected Value
-1. [Uncertainty](#Uncertainty)
+1. [Uncertainty](#an)
 2. [Expected Value](#Expected)
 3. [Sources](#Sources)
 
 
-# Uncertainty <a id="Uncertainty"></a>
+# Uncertainty <a id="an"></a>
 The idea behind **uncertainty** is that the outcome of events can be predicted but there is not garuntee that the predicted outcome will always occur, we always have some level of **uncertainty** in whether our predictions will be reflected by reality. 
 
 <img src="https://user-images.githubusercontent.com/53871641/226346250-321985ce-2ba8-4c71-bc8b-01d08655d365.png" width ="400" height = "300">
