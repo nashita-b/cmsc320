@@ -1,6 +1,6 @@
 # Uncertainty and Expected Value
 1. [Uncertainty](#an)
-2. [Expected Value](#Expected)
+2. [Expected Value](#ex)
 3. [Sources](#Sources)
 
 
@@ -20,7 +20,7 @@ Uncertainty can be used to assess the reliability of predictions
 - Standard deviation
 - IQR
 
-# Expected Value <a id="Expected"></a>
+# Expected Value <a id="ex"></a>
 Expected value is a central tendency measure (determines what is the average or typical value in a dataset). Expected value can help quantify risk and aid in decision making. 
 
 <img src="https://user-images.githubusercontent.com/53871641/226346488-f4b99a0e-7ecb-4887-91b0-e2d4a48dd041.png" width ="400" height = "300">
