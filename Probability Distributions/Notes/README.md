@@ -10,7 +10,7 @@
 - **Discrete vs. Continouos**
 	- Continuous
 - **What it looks like**
-	- ![[Pasted image 20230128191030.png|300]]
+	- <img src="https://user-images.githubusercontent.com/53871641/226483994-03311011-4e87-4aa3-9fe0-0c92c47fdab0.png" width="300" height="300"
 - **Examples**
 	- Drawing a 6 from a deck of cards.
 
