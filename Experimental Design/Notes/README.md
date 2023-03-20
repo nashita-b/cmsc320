@@ -17,11 +17,10 @@ Observe effects of  treatment after application on subjects.
 - *[Controls](#an)* for effects of variables 
 
 ## Synthetic
-[[Data]] created by experimenter, typically through simulation.
+Data created by experimenter, typically through simulation.
 
 # Collecting Data
-> [!Note]
-[[Data]] must be representative of the population with regards to the question(s) of interest.
+> Data must be representative of the population with regards to the question(s) of interest.
 
 ## Controlling Data <a id="an"></a>
 -   Ways to control an experiment:
