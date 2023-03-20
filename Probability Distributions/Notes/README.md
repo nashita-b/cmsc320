@@ -2,7 +2,11 @@
 
 > Distributions refer to the probability of occurrence for all possible outcomes. Distributions can be graphed. The kind of distribution associated with a set of events can tell us about the properties the events have and how to appropriately analyze them. (Note: the sum of all probabilities over an entire distribution is one)
 
-## Types of Distributions
+1. [Types of Distributions](#an)
+2. [Central Limit Theorem](#ce)
+3. [Extra Reading](#re)
+
+## Types of Distributions <a id="an"></a>
 ### Know Well
 #### Uniform
 - **What it is**
@@ -96,9 +100,9 @@
 - **Discrete vs. Continuous**
 	- Continuous
 
-## Central Limit Theorem
+## Central Limit Theorem <a id="ce"></a>
 - The central limit theorem states that as sample size becomes significantly large, the distribution of events approaches the normal distribution.
 
-## Extra Reading
+## Extra Reading <a id="re"></a>
 1. Ippolito, P. P. (2021, August 24). Probability distributions in data science. Medium. Retrieved March 20, 2023, from https://towardsdatascience.com/probability-distributions-in-data-science-cce6e64873a7 
 
