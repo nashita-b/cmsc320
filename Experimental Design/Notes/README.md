@@ -40,8 +40,8 @@ Well designed sampling incorporates several of the following types of sampling.
 
 ### Stratified Sampling
 - In a stratified sample, researchers divide a population into homogeneous subpopulations, called strata, based on specific characteristics (ex. race, gender identity, location, etc.). Every member of the population studied should be in exactly one stratum. 
-
-![[Pasted image 20230320170927.png|400]]
+- 
+<img src="https://user-images.githubusercontent.com/53871641/226473882-e7b07071-7bce-4529-8a3d-fb81e87194c7.png" width = "500" height="200">
 
 #### Stratification vs. Blocking <a id="ant"></a>
 - Stratification groups subjects based on characteristics which the experimenter cannot control (ex. eye color). Blocking groups subjects based on variables the experimenter can control such as the treatments.
