@@ -28,8 +28,7 @@ Observe effects of  treatment after application on subjects.
 	- **Blinding**: participants are unaware of the kind of treatment they are recieving, if any at all
 		- **Double dummy**: a method of blinding where both treatment groups may receive *placebo*
 	- **Placebo**: something that appears to the participants to be an active treatment, but does not actually contain the active treatment
-	- **Blocking**: arranging experimental units into similar groups (based on treatment applied.
-		- (See difference between blocking and stratification [[Experimental Design#Collecting Data#Sampling Techniques#Stratified Sampling]])
+	- **Blocking**: arranging experimental units into similar groups based on treatment applied. ([Blocking vs stratification](#ant))
 
 ## Sampling Techniques
 Well designed sampling incorporates several of the following types of sampling.
@@ -45,7 +44,7 @@ Well designed sampling incorporates several of the following types of sampling.
 
 ![[Pasted image 20230320170927.png|400]]
 
-#### Stratification vs. Blocking
+#### Stratification vs. Blocking <a id="ant"></a>
 - Stratification groups subjects based on characteristics which the experimenter cannot control (ex. eye color). Blocking groups subjects based on variables the experimenter can control such as the treatments.
 
 ### Cluster Sampling
