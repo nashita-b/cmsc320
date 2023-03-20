@@ -5,7 +5,7 @@
 
 This folder contains notes and problems related to Uncertainty and Expected Value, which are topics that were covered in the lecture on Background.
 
-see documentation [here](cmsc320/Uncertainty/Notes/README.md)
+see documentation [here](https://github.com/nashita-b/cmsc320/blob/M1/Uncertainty/Notes/README.md)
 
 ## Readings
 1. [Alternative Bayes Rule Video](https://www.youtube.com/watch?v=R13BD8qKeTg)
