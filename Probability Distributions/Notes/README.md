@@ -1,6 +1,5 @@
-#CMSC320 #probability_statistics #M1 
+# Probability Distributions
 
-> [!Definition]
 > Distributions refer to the probability of occurrence for all possible outcomes. Distributions can be graphed. The kind of distribution associated with a set of events can tell us about the properties the events have and how to appropriately analyze them. (Note: the sum of all probabilities over an entire distribution is one)
 
 ## Types of Distributions
