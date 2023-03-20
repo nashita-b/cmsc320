@@ -14,8 +14,7 @@ Observe effects of  treatment after application on subjects.
 - *Randomly selected* subjects 
 - Subjects are *representative of the population* being tested on
 - Experiment can be *replicated* 
-- *Controls* for effects of variables 
-	- (more about controlling experiments in [[Experimental Design#Collecting Data#Controlling Data]])
+- *[Controls](#an)* for effects of variables 
 
 ## Synthetic
 [[Data]] created by experimenter, typically through simulation.
@@ -24,7 +23,7 @@ Observe effects of  treatment after application on subjects.
 > [!Note]
 [[Data]] must be representative of the population with regards to the question(s) of interest.
 
-## Controlling Data
+## Controlling Data <a id="an"></a>
 -   Ways to control an experiment:
 	- **Blinding**: participants are unaware of the kind of treatment they are recieving, if any at all
 		- **Double dummy**: a method of blinding where both treatment groups may receive *placebo*
