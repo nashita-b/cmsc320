@@ -1,6 +1,9 @@
-#CMSC320  #M1 
+# Experimental Design
+1. [Origins of Data](#or)
+2. [Collecting Data](#col)
+4. [Error](#er)
 
-# Origins of Data
+# Origins of Data <a id="or"></a>
 ## Observational Studies
 Observe a sample of a population without influencing the response of participants (i.e. no treatment applied).
 - **Cross sectional:** Looks at data from a single point in time (*Present*)
@@ -19,7 +22,7 @@ Observe effects of  treatment after application on subjects.
 ## Synthetic
 Data created by experimenter, typically through simulation.
 
-# Collecting Data
+# Collecting Data  <a id="col"></a>
 > Data must be representative of the population with regards to the question(s) of interest.
 
 ## Controlling Data <a id="an"></a>
@@ -61,7 +64,7 @@ Well designed sampling incorporates several of the following types of sampling.
 ### Convenience Sampling
 - Convenience sampling is a method of collecting samples by taking samples that are conveniently located around a location or Internet service. Be careful of using this sampling technique, can introduce a lot of bias.
 
-# Error
+# Error <a id="er"></a>
 ## Types of Error
 - **Sampling Error**
 	- Unrepresentative sample taken
