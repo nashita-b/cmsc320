@@ -1,5 +1,4 @@
 # Uncertainty and Expected Value
-Sections within the notes:
 1. [Uncertainty](#an)
 2. [Expected Value](#ex)
 3. [Sources](#sr)
