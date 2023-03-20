@@ -99,6 +99,6 @@
 ## Central Limit Theorem
 - The central limit theorem states that as sample size becomes significantly large, the distribution of events approaches the normal distribution.
 
-
-
+## Extra Reading
+1. Ippolito, P. P. (2021, August 24). Probability distributions in data science. Medium. Retrieved March 20, 2023, from https://towardsdatascience.com/probability-distributions-in-data-science-cce6e64873a7 
 
