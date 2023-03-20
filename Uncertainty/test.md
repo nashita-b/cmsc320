@@ -40,7 +40,11 @@ Expected Value = (1 x 1/6) + (2 x 1/6) + (3 x 1/6) + (4 x 1/6) + (5 x 1/6) + (6 
 Expected Value = 3.5
 
 ## Expected Value vs Mean
-![image](https://user-images.githubusercontent.com/53871641/226344540-907b4312-43e8-4ee0-8b93-d8db9f69a2bb.png)
+| Expected Value  | Mean |
+| ------------- | ------------- |
+| Expected value is the weighted average of all possible outcomes of a random variable, where the weights are the probabilities of each outcome  | Mean is the arithmetic average of a set of numbers |
+| Expected value considers all possible outcomes of a random variable
+  | Mean only considers the values that actually occur in the data  |
 
 # Sources
 1. _Everything you need to know about the math of Powerball_. Big Think. (2022, November 11). Retrieved March 19, 2023, from https://bigthink.com/starts-with-a-bang/math-of-powerball/#:~:text=If%20you%20want%20to%20calculate,total%20worth%20of%20each%20ticket.
