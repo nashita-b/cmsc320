@@ -1,4 +1,4 @@
-# Uncertainty and Expected Value
+Uncertainty and Expected Value
 # Uncertainty
 The idea behind **uncertainty** is that the outcome of events can be predicted but there is not garuntee that the predicted outcome will always occur, we always have some level of **uncertainty** in whether our predictions will be reflected by reality. 
 
