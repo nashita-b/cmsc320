@@ -3,11 +3,9 @@
 
 **Lecture Topic:** Background
 
-This folder contains notes and problems related to Uncertainty and Expected Value, which are topics that were covered in the lecture on Background.
+This folder contains notes related to Uncertainty and Expected Value, which are topics that were covered in the lecture on Background.
 
 - [Uncertainty and Expected Value Notes](https://github.com/nashita-b/cmsc320/tree/M1/Uncertainty/Notes)
-- [Uncertainty and Expected Value Problems](https://github.com/nashita-b/cmsc320/tree/M1/Uncertainty/Problems)
-
 
 ## Readings
 - [Alternative Bayes Rule Video](https://www.youtube.com/watch?v=R13BD8qKeTg)
