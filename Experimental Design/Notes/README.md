@@ -32,7 +32,7 @@ Data created by experimenter, typically through simulation.
 ## Sampling Techniques
 Well designed sampling incorporates several of the following types of sampling.
 
-![[Pasted image 20230320170507.png|300]]
+<img src="https://user-images.githubusercontent.com/53871641/226474099-f3e05d0e-a02b-4d6f-8319-ef5c54d83270.png" width = "300" hwight = "300">
 
 ### Systematic Sampling
 - A probability sampling method where researchers select members of the population at a regular interval.
