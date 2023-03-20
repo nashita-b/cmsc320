@@ -1,7 +1,7 @@
 # Uncertainty and Expected Value
 1. [Uncertainty](#an)
 2. [Expected Value](#ex)
-3. [Sources](#Sources)
+3. [Sources](#sr)
 
 
 # Uncertainty <a id="an"></a>
@@ -51,7 +51,7 @@ Expected Value = 3.5
 | Expected value is the weighted average of all possible outcomes of a random variable, where the weights are the probabilities of each outcome | Mean is the arithmetic average of a set of numbers |
 |Expected value considers all possible outcomes of a random variable | Mean only considers the values that actually occur in the data |
 
-# Sources <a id="Sources"></a>
+# Sources <a id="sr"></a>
 1. _Everything you need to know about the math of Powerball_. Big Think. (2022, November 11). Retrieved March 19, 2023, from https://bigthink.com/starts-with-a-bang/math-of-powerball/#:~:text=If%20you%20want%20to%20calculate,total%20worth%20of%20each%20ticket.
 2. Hullman, J. (2019, September 1). _How to get better at embracing unknowns_. Scientific American. Retrieved March 19, 2023, from https://www.scientificamerican.com/article/how-to-get-better-at-embracing-unknowns/
 3. Soni, D. (2019, July 16). _What is expected value?_ Medium. Retrieved March 19, 2023, from https://towardsdatascience.com/what-is-expected-value-4815bdbd84de
