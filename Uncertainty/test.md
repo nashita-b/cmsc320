@@ -11,7 +11,7 @@ The idea behind **uncertainty** is that the outcome of events can be predicted b
 ## Purpose and Properties
 Uncertainty can be used to assess the reliability of predictions
 
-![[Pasted image 20230319201340.png|400]]
+![image](https://user-images.githubusercontent.com/53871641/226337532-c9ea556c-88a6-47b5-87a4-f1682fa7cab8.png)
 
 ## Examples of Uncertainty Measures
 - Standard deviation
