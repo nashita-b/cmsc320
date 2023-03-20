@@ -1,14 +1,14 @@
 # Uncertainty
 The idea behind **uncertainty** is that the outcome of events can be predicted but there is not garuntee that the predicted outcome will always occur, we always have some level of **uncertainty** in whether our predictions will be reflected by reality. 
 
-![image](https://user-images.githubusercontent.com/53871641/226346250-321985ce-2ba8-4c71-bc8b-01d08655d365.png)
+<img src="https://user-images.githubusercontent.com/53871641/226346250-321985ce-2ba8-4c71-bc8b-01d08655d365.png" width ="400" height = "300">
 
 > Uncertainty is a measure that relates to how a *predicted value may differ from the observed value*.
 
 ## Purpose and Properties
 Uncertainty can be used to assess the reliability of predictions
 
-![image](https://user-images.githubusercontent.com/53871641/226337532-c9ea556c-88a6-47b5-87a4-f1682fa7cab8.png)
+<img src="https://user-images.githubusercontent.com/53871641/226337532-c9ea556c-88a6-47b5-87a4-f1682fa7cab8.png" width ="400" height = "300">
 
 ## Examples of Uncertainty Measures
 - Standard deviation
@@ -17,7 +17,7 @@ Uncertainty can be used to assess the reliability of predictions
 # Expected Value
 Expected value is a central tendency measure (determines what is the average or typical value in a dataset). Expected value can help quantify risk and aid in decision making. 
 
-![image](https://user-images.githubusercontent.com/53871641/226346488-f4b99a0e-7ecb-4887-91b0-e2d4a48dd041.png)
+<img src="https://user-images.githubusercontent.com/53871641/226346488-f4b99a0e-7ecb-4887-91b0-e2d4a48dd041.png" width ="400" height = "300">
 
 *Graph of much value you expect to gain from betting on a $2 powerball ticket*
 
