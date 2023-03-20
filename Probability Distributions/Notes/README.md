@@ -45,7 +45,8 @@
 - **Discrete vs. Continouos**
 	- Continuous
 - **What it looks like**
-	- ![[Pasted image 20230128192829.png|300]]
+	- <img src="https://user-images.githubusercontent.com/53871641/226484806-926edbf3-5857-4857-993c-97a85723ac6b.png" width="300" height="150">
+
 - **Examples**
 	- Population height
 
@@ -55,7 +56,8 @@
 - **Discrete vs. Continuous**
 	- Discrete
 - **What it looks like**
-	- ![[Pasted image 20230128200113.png|300]]
+	- <img src="https://user-images.githubusercontent.com/53871641/226484974-99ad91b7-ddc0-4314-8332-82b805d30e9e.png" width="300" height="200">
+
 - **Examples**
 	- Number of customers entering a strore every fifteen minutes
 - **Note**
@@ -67,8 +69,6 @@
 	- In this distribution a small set of events have a large probability while the remaining set of events have a small probability
 - **Discrete vs. Continuous**
 	- Continuous
-- **What it looks like**
-	- ![[Pasted image 20230128201137.png|300]]
 - **Examples**
 	- Wealth distribution in the U.S.
 
@@ -77,32 +77,24 @@
 	- Distribution of sum of squared random variables. Used when there are many categorical variables.
 - **Discrete vs. Continuous**
 	- Continuous
-- **What it looks like**
-	- ![[Pasted image 20230128201345.png|300]]
 
 #### Exponential
 - **What it is** 
 	- Usually concerns that amount of time until a specific event happens. (can think of poisson as having exponential between each event)
 - **Discrete vs. Continuous**
 	- Continuous
-- **What it looks like**
-	- ![[Pasted image 20230131211648.png|300]]
 
 #### Gamma
 - **What it is** 
 	- Wait time for a fixed number of events
 - **Discrete vs. Continuous**
 	- Continuous
-- **What it looks like**
-	- ![[Pasted image 20230131214205.png|300]]
 
 #### Weibull
 - **What it is** 
 	- Describes a waiting time for one event, if that event becomes more or less likely with time.
 - **Discrete vs. Continuous**
 	- Continuous
-- **What it looks like**
-	- ![[Pasted image 20230131214355.png|300]]
 
 ## Central Limit Theorem
 - The central limit theorem states that as sample size becomes significantly large, the distribution of events approaches the normal distribution.
