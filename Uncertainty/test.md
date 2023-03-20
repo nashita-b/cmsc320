@@ -3,7 +3,7 @@
 # Uncertainty
 The idea behind **uncertainty** is that the outcome of events can be predicted but there is not garuntee that the predicted outcome will always occur, we always have some level of **uncertainty** in whether our predictions will be reflected by reality. 
 
-![image](https://user-images.githubusercontent.com/53871641/226344982-3f5c171d-95f0-4eb1-89a9-24ff23bfdc23.png)
+![image](https://user-images.githubusercontent.com/53871641/226346250-321985ce-2ba8-4c71-bc8b-01d08655d365.png)
 
 > Uncertainty is a measure that relates to how a *predicted value may differ from the observed value*.
 
