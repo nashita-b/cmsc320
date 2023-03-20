@@ -1,5 +1,10 @@
-Uncertainty and Expected Value
-# Uncertainty
+# Uncertainty and Expected Value
+1. [Uncertainty](#Uncertainty)
+2. [Expected Value](#Expected)
+3. [Sources](#Sources)
+
+
+# Uncertainty <a id="Uncertainty"></a>
 The idea behind **uncertainty** is that the outcome of events can be predicted but there is not garuntee that the predicted outcome will always occur, we always have some level of **uncertainty** in whether our predictions will be reflected by reality. 
 
 <img src="https://user-images.githubusercontent.com/53871641/226346250-321985ce-2ba8-4c71-bc8b-01d08655d365.png" width ="400" height = "300">
@@ -15,7 +20,7 @@ Uncertainty can be used to assess the reliability of predictions
 - Standard deviation
 - IQR
 
-# Expected Value
+# Expected Value <a id="Expected"></a>
 Expected value is a central tendency measure (determines what is the average or typical value in a dataset). Expected value can help quantify risk and aid in decision making. 
 
 <img src="https://user-images.githubusercontent.com/53871641/226346488-f4b99a0e-7ecb-4887-91b0-e2d4a48dd041.png" width ="400" height = "300">
@@ -46,7 +51,7 @@ Expected Value = 3.5
 | Expected value is the weighted average of all possible outcomes of a random variable, where the weights are the probabilities of each outcome | Mean is the arithmetic average of a set of numbers |
 |Expected value considers all possible outcomes of a random variable | Mean only considers the values that actually occur in the data |
 
-# Sources
+# Sources <a id="Sources"></a>
 1. _Everything you need to know about the math of Powerball_. Big Think. (2022, November 11). Retrieved March 19, 2023, from https://bigthink.com/starts-with-a-bang/math-of-powerball/#:~:text=If%20you%20want%20to%20calculate,total%20worth%20of%20each%20ticket.
 2. Hullman, J. (2019, September 1). _How to get better at embracing unknowns_. Scientific American. Retrieved March 19, 2023, from https://www.scientificamerican.com/article/how-to-get-better-at-embracing-unknowns/
 3. Soni, D. (2019, July 16). _What is expected value?_ Medium. Retrieved March 19, 2023, from https://towardsdatascience.com/what-is-expected-value-4815bdbd84de
