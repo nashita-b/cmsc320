@@ -19,7 +19,7 @@ Uncertainty can be used to assess the reliability of predictions
 # Expected Value
 Expected value is a central tendency measure (determines what is the average or typical value in a dataset). Expected value can help quantify risk and aid in decision making. 
 
-![image](https://user-images.githubusercontent.com/53871641/226344788-42e89e83-01d4-43c8-aa68-575af0e4b93b.png)
+![image](https://user-images.githubusercontent.com/53871641/226346488-f4b99a0e-7ecb-4887-91b0-e2d4a48dd041.png)
 
 *Graph of much value you expect to gain from betting on a $2 powerball ticket*
 
