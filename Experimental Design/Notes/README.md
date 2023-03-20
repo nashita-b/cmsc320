@@ -2,6 +2,7 @@
 1. [Origins of Data](#or)
 2. [Collecting Data](#col)
 4. [Error](#er)
+5. [Extra Readings](#ex)
 
 # Origins of Data <a id="or"></a>
 ## Observational Studies
@@ -88,6 +89,6 @@ Well designed sampling incorporates several of the following types of sampling.
 		- Example: Cannot test on fatal shots to planes
 - Once a rigorous expirement is designed and conducted correctly, an experimenter must accept the results even if they go against their expectations. 
 
-# Extra Reading
+# Extra Reading <a id="ex"></a>
 1. Neo, B. (2020, October 27). _Experimental Design in data science_. Medium. Retrieved March 20, 2023, from https://towardsdatascience.com/designing-experiments-in-data-science-23360d2ddf84
 2. Wood, R. (2020, January 4). _The three keys to experimental design every data scientist should know_. Medium. Retrieved March 20, 2023, from https://towardsdatascience.com/the-three-keys-to-experimental-design-every-data-scientist-should-know-b0d812d86865
