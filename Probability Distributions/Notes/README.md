@@ -10,7 +10,7 @@
 - **Discrete vs. Continouos**
 	- Continuous
 - **What it looks like**
-	- <img src="https://user-images.githubusercontent.com/53871641/226483994-03311011-4e87-4aa3-9fe0-0c92c47fdab0.png" width="300" height="300">
+	- <img src="https://user-images.githubusercontent.com/53871641/226483994-03311011-4e87-4aa3-9fe0-0c92c47fdab0.png" width="300" height="200">
 - **Examples**
 	- Drawing a 6 from a deck of cards.
 
@@ -20,7 +20,7 @@
 - **Discrete vs. Continouos**
 	- Discrete
 - **What it looks like**
-	- ![[Pasted image 20230128192046.png|300]]
+	- <img src="https://user-images.githubusercontent.com/53871641/226484372-8820d831-8632-4863-b7c5-f66574168e1b.png" width="300" height="200">
 - **Examples**
 	- Coin flip
 
@@ -31,7 +31,7 @@
 - **Discrete vs. Continouos**
 	- Discrete
 - **What it looks like**
-	- ![[Pasted image 20230128194203.png|300]]
+	- <img src="https://user-images.githubusercontent.com/53871641/226484532-853973ee-4093-43cc-bb48-d5cd632acfaa.png" width="300" hwight="200">
 - **Examples**
 	- Flipping coin 100 times.
 
