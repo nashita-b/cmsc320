@@ -5,13 +5,12 @@ The idea behind **uncertainty** is that the outcome of events can be predicted b
 
 ![[Pasted image 20230319210406.png|350]]
 
-> [!Definition]
 > Uncertainty is a measure that relates to how a *predicted value may differ from the observed value*.
 
 ## Purpose and Properties
 Uncertainty can be used to assess the reliability of predictions
 
-![image|300](https://user-images.githubusercontent.com/53871641/226337532-c9ea556c-88a6-47b5-87a4-f1682fa7cab8.png)
+![image](https://user-images.githubusercontent.com/53871641/226337532-c9ea556c-88a6-47b5-87a4-f1682fa7cab8.png)
 
 ## Examples of Uncertainty Measures
 - Standard deviation
@@ -23,7 +22,6 @@ Expected value is a central tendency measure (determines what is the average or 
 ![[Pasted image 20230319224652.png|350]]
 *Graph of much value you expect to gain from betting on a $2 powerball ticket*
 
-> [!Definition]
 > Expected value is the *expected outcome* based on some *repeated trial* of a statistical experiment. 
 
 ## Formula
