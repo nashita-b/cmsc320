@@ -1,15 +1,15 @@
 # Summary Statistics
-- Purpose
-- Types of Summary Statistics
-- Miscellaneous
+1. [Purpose](#or)
+2. [Types of Summary Statistics](#th)
+3. [Miscellaneous](#mi)
 
-# Purpose
+# Purpose <a id="or"></a>
 -  Summary statistics provide general overview of what data is telling us
 - Summary statistics are useful for comparing datasets with similar distributions 
 	- Example: can use summary statistics to compare the average weight of New York City rats to Baltimore rats
 - Summary statistics can be misleading 
 
-# Types of Summary Statistics
+# Types of Summary Statistics <a id="th"></a>
 - Central Tendency 
 -   Spread 
 -   Skew 
@@ -99,7 +99,7 @@ Certain measures of central tendency are not meaningful for certain distribution
 ### Normalcy
 - How close to the normal distribution a given dataset is
 
-# Miscellaneous
+# Miscellaneous <a id="mi"></a>
 ## Min / max
 - Often as a data scientist it's useful to look at a collection of the data points at the edges 
 	- Example: Determining the top and bottom 1%. This can help tell us if there is a fat tail, one or a few wild outliers, or some other pattern.
