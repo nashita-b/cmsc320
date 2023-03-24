@@ -63,7 +63,7 @@ Certain measures of central tendency are not meaningful for certain distribution
 ### Mean and Median as Indicators
 - When median and mean are different the distribution may have a skew or have many of outliers 
 
-<img src="https://user-images.githubusercontent.com/53871641/227394697-5649292b-6cc4-463e-8b0d-c44813d04ee3.png">
+<img src="https://user-images.githubusercontent.com/53871641/227394697-5649292b-6cc4-463e-8b0d-c44813d04ee3.png" width="400" height="200">
 
 ## Spread
 > Spread measures how spread out a distribution is. The most common measures of spread is **standard deviation ** and **variance**. 
