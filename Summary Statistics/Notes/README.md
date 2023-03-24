@@ -17,7 +17,6 @@
 *Note: The kind of distribution determines what summary statistics are meaningful and which measures to use.*
 
 ## Central Tendency
-> [!Summary]
 > Central tendency shows where most of the data is centered. There are three types of central tendency: **mean**, **median**, and **mode**.
 
 ### Note on Distributions
@@ -67,7 +66,6 @@ Certain measures of central tendency are not meaningful for certain distribution
 ![[Pasted image 20230218132507.png]]
 
 ## Spread
-> [!Summary]
 > Spread measures how spread out a distribution is. The most common measures of spread is **standard deviation ** and **variance**. 
 
 ### Variance / Standard deviation
@@ -82,8 +80,7 @@ Certain measures of central tendency are not meaningful for certain distribution
 - Standard deviation used when determining the confidence that a given data point came from the distribution in question
 
 ## Skew
-> [!Summary]
- Skew measures how shifted a distribution is, or how many outliers it has.
+> Skew measures how shifted a distribution is, or how many outliers it has.
 
 ![[Pasted image 20230216213445.png|400]]
 
