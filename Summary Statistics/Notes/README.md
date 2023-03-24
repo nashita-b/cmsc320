@@ -1,4 +1,7 @@
 # Summary Statistics
+- Purpose
+- Types of Summary Statistics
+- Miscellaneous
 
 # Purpose
 -  Summary statistics provide general overview of what data is telling us
