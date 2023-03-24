@@ -83,7 +83,7 @@ Certain measures of central tendency are not meaningful for certain distribution
 ## Skew
 > Skew measures how shifted a distribution is, or how many outliers it has.
 
-![[Pasted image 20230216213445.png|400]]
+![image](https://user-images.githubusercontent.com/53871641/227395526-08fedba0-1254-44e0-8d3a-389e413bc28c.png)
 
 ### Kurtosis
 - A measure of how likely a distribution is to produce outliers
