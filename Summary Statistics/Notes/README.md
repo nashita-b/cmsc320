@@ -11,8 +11,8 @@
 
 # Types of Summary Statistics <a id="th"></a>
 - Central Tendency 
--   Spread 
--   Skew 
+- Spread 
+- Skew 
 
 *Note: The kind of distribution determines what summary statistics are meaningful and which measures to use.*
 
